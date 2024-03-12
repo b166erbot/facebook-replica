@@ -1,0 +1,15 @@
+{
+  "name": "facebook-replica",
+  "version": "1.0.0",
+  "description": "Uma réplica da página inicial do facebook como forma de promover meu trabalho",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
